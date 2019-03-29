@@ -1,0 +1,26 @@
+html {
+    text-align: center;
+}
+
+.container {
+    background-color: teal;
+    color: white;
+}
+
+h2 {
+    font-size: 15px;
+}
+
+p {
+    display: inline-block;
+}
+
+#output {
+    color: red;
+}
+
+.button {
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+}
